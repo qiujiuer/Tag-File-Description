@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Local datasets and generated labels
+dataset*/
+labels*/
+output*/
+*.tif
+*.tiff
+*.png
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
